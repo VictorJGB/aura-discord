@@ -1,8 +1,14 @@
+import Layout from "../components/Layout";
+
+import GlobalStyles from "../styles/GlobalStyles";
+
 export const App = () => {
   return (
-    <div className="App">
-      <h1>Discord Clone</h1>
-    </div>
+    <>
+      <Layout />
+
+      <GlobalStyles />
+    </>
   );
 };
 
