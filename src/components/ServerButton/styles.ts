@@ -15,7 +15,7 @@ export const Button = styled.button<Props>`
   margin-bottom: 8px;
 
   background-color: ${(props) =>
-    props.isHome ? "var(--rocketseat)" : "var(--primary)"};
+    props.isHome ? "var(--aura)" : "var(--senary)"};
 
   position: relative;
   cursor: pointer;
@@ -72,6 +72,6 @@ export const Button = styled.button<Props>`
   &:hover {
     border-radius: 16px;
     background-color: ${(props) =>
-      props.isHome ? "var(--rocketseat)" : "var(--discord)"};
+      props.isHome ? "var(--aura)" : "var(--selection)"};
   }
 `;

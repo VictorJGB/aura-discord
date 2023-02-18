@@ -14,25 +14,28 @@ export default createGlobalStyle`
     }
 
     :root{
-        --primary: #36393f;
-        --secondary: #2f3136;
-        --tertiary: rgb(32,34,37);
+        --primary: #15141b;
+        --secondary: #29263c;
+        --tertiary: #ffca85;
         --quarternary: #292b2f;
-        --quinary: #393d42;
+        --quinary: #61ffca;
         --senary: #828386;
     
         --white: #fff;
-        --gray: #8a8c90;
+        --black: #15141b;
+        --gray: #9C9C9C;
         --chat-input: rgb(64,68,75);
         --symbol: #74777a;
-        --notification: #f84a4b;
-        --discord: #6e86d6;
+        --notification: #54c59f;
+        --selection: #51497E;
+        --dark-selection: #29263c;
         --mention-detail: #f9a839;
         --mention-message: #413f3f;
+        --background: #15141b;
     
         --link: #5d80d6;
     
-        --rocketseat: #6633cc;
+        --aura: #8464c6;
     }
 
     *, button, input{
