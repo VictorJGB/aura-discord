@@ -1,5 +1,5 @@
 # Aura Discord
-Discord UI Clone with the aura color palette
+Discord UI Clone with the <a href="https://github.com/daltonmenezes/aura-theme/tree/main/packages/color-palettes">aura color palette</a>
 
 ## Techs
 
