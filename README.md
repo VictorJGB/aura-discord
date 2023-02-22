@@ -13,3 +13,7 @@ Discord UI Clone with the <a href="https://github.com/daltonmenezes/aura-theme/t
 
 1. Run `npm install` or `yarn install`.<br />
 2. Run `yarn run dev` and access the localhost address.<br />
+
+## Live
+
+<a href="https://aura-discord.netlify.app">Netlify</a>
