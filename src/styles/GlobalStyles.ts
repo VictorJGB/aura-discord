@@ -20,12 +20,13 @@ export default createGlobalStyle`
         --quarternary: #201F28;
         --quinary: #61ffca;
         --senary: #F694FF;
-    
+        
         --white: #fff;
         --black: #15141b;
         --gray: #9C9C9C;
         --avatar: #6d6d6d;
         --symbol: #74777a;
+        --message-mention: rgba(246,148,255, 0.2);
         --notification: #54c59f;
         --selection: #51497E;
         --foreground: #edecee;

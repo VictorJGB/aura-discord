@@ -3,15 +3,13 @@ import styled from "styled-components";
 export const Container = styled.div`
   display: flex;
   align-items: center;
-
   padding: 4px 16px;
   margin-right: 4px;
 
   background-color: transparent;
 
   &.mention {
-    background-color: var(--tertiary);
-    opacity: 0.2;
+    background-color: var(--message-mention);
 
     border-left: 2px solid var(--tertiary);
     padding-left: 14px;

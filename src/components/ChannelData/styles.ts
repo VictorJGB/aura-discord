@@ -16,6 +16,7 @@ export const Container = styled.div`
 export const Messages = styled.div`
   padding: 20px 0;
 
+  width: 100%;
   display: flex;
   flex-direction: column;
 
@@ -27,7 +28,7 @@ export const Messages = styled.div`
   }
 
   ::-webkit-scrollbar-thumb {
-    background-color: var(--secondary);
+    background-color: var(--primary);
     border-radius: 4px;
   }
 
@@ -58,7 +59,7 @@ export const Input = styled.input`
     color: var(--gray);
   }
 
-  > sgv {
+  ~ svg {
     position: relative;
     top: -50%;
     left: 14px;
