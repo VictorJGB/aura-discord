@@ -15,7 +15,7 @@ export const Button = styled.button<Props>`
   margin-bottom: 8px;
 
   background-color: ${(props) =>
-    props.isHome ? "var(--aura)" : "var(--senary)"};
+    props.isHome ? "var(--aura)" : "var(--avatar)"};
 
   position: relative;
   cursor: pointer;

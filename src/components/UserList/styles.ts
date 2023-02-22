@@ -69,7 +69,19 @@ export const User = styled.div`
   }
 `;
 
-export const Avatar = styled.div``;
+export const Avatar = styled.div`
+  flex-shrink: 0;
+
+  width: 32px;
+  height: 32px;
+
+  border-radius: 50%;
+  background-color: var(--quarternary);
+
+  &.bot {
+    background-color: var(--senary);
+  }
+`;
 
 export const Role = styled.span`
   margin-top: 20px;

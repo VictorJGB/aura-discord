@@ -17,23 +17,18 @@ export default createGlobalStyle`
         --primary: #15141b;
         --secondary: #29263c;
         --tertiary: #ffca85;
-        --quarternary: #292b2f;
+        --quarternary: #201F28;
         --quinary: #61ffca;
-        --senary: #828386;
+        --senary: #F694FF;
     
         --white: #fff;
         --black: #15141b;
         --gray: #9C9C9C;
-        --chat-input: rgb(64,68,75);
+        --avatar: #6d6d6d;
         --symbol: #74777a;
         --notification: #54c59f;
         --selection: #51497E;
-        --dark-selection: #29263c;
-        --mention-detail: #f9a839;
-        --mention-message: #413f3f;
-        --background: #15141b;
-    
-        --link: #5d80d6;
+        --foreground: #edecee;
     
         --aura: #8464c6;
     }

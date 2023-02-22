@@ -10,7 +10,7 @@ export const Container = styled.div`
   justify-content: space-between;
 
   padding: 10px;
-  background-color: var(--background);
+  background-color: var(--quarternary);
 
   box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 0px 0px;
 `;
@@ -25,7 +25,7 @@ export const Avatar = styled.div`
   width: 32px;
   border-radius: 50%;
 
-  background-color: var(--gray);
+  background-color: var(--avatar);
 `;
 
 export const UserData = styled.div`
