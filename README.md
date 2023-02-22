@@ -1,5 +1,5 @@
 # discord-clone
-UI Clone do Discord
+Discord UI Clone with the aura color palette
 
 ## Techs
 
