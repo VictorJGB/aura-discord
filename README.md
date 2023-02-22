@@ -1,4 +1,4 @@
-# discord-clone
+# Aura Discord
 Discord UI Clone with the aura color palette
 
 ## Techs
