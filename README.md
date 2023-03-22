@@ -12,6 +12,69 @@ Discord UI Clone with the <a href="https://github.com/daltonmenezes/aura-theme/t
 ## Figma
 <a href="https://www.figma.com/file/Ue2o5nnFeXAn9BXZpDUd5P/Discord-Clone?node-id=0%3A1&t=3syG5IiFSNnUZGqF-1" target="_blank">Project Draft</a>
 
+## Color palette
+
+<table>
+      <tr>
+         <th>Color</th>
+         <th>Hex</th>
+         <th>🎨</th>
+      </tr>
+      <tr>
+         <td>Main Color</td>
+         <td>#15141b</td>
+         <td><img src="https://placeholder.pics/svg/20x20/15141b/555555/mainColor" /></td>
+      </tr>
+      <tr>
+         <td>Secondary Color</td>
+         <td>#29263c</td>
+         <td><img src="https://placeholder.pics/svg/20x20/29263c/000000/secondColor" /></td>
+      </tr>
+      <tr>
+         <td>Tertiary Color</td>
+         <td>#ffca85</td>
+         <td><img src="https://placeholder.pics/svg/20x20/ffca85/000000/secondColor" /></td>
+      </tr>
+      <tr>
+         <td>Quarternary Color</td>
+         <td>#201F28</td>
+         <td><img src="https://placeholder.pics/svg/20x20/201F28/000000/secondColor" /></td>
+      </tr>
+      <tr>
+         <td>Quinary Color</td>
+         <td>#61ffca</td>
+         <td><img src="https://placeholder.pics/svg/20x20/61ffca/000000/secondColor" /></td>
+      </tr>
+      <tr>
+         <td>Senary Color</td>
+         <td>#F694FF</td>
+         <td><img src="https://placeholder.pics/svg/20x20/F694FF/000000/secondColor" /></td>
+      </tr>
+      <tr>
+         <td>Gray Color</td>
+         <td>#9C9C9C</td>
+         <td><img src="https://placeholder.pics/svg/20x20/9C9C9C/000000/grayColor" /></td>
+      </tr>
+      <tr>
+         <td>Black Color</td>
+         <td>#15141b</td>
+         <td><img src="https://placeholder.pics/svg/20x20/15141b/FFFFFF-FFFFFF/blackColor" /></td>
+      </tr>
+      <tr>
+         <td>White Color</td>
+         <td>#fff</td>
+         <td><img src="https://placeholder.pics/svg/20x20/fff/000000/whiteColor" /></td>
+      </tr>
+   </table>
+        --avatar: #6d6d6d;
+        --symbol: #74777a;
+        --message-mention: rgba(246,148,255, 0.2);
+        --notification: #54c59f;
+        --selection: #51497E;
+        --foreground: #edecee;
+    
+        --aura: #8464c6;
+
 ## Usage
 
 1. Run `npm install` or `yarn install`.<br />
