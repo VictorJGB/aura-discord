@@ -23,3 +23,11 @@ Discord UI Clone with the <a href="https://github.com/daltonmenezes/aura-theme/t
 
 ## Screenshot
 
+![img01](https://user-images.githubusercontent.com/62398638/226928939-da2b9f39-6096-42ac-9530-657de47775f8.png)
+
+
+## Author
+
+<a href="">
+  <img width="150" height="150" src="https://user-images.githubusercontent.com/62398638/226929073-2c757280-6acf-4641-9fc1-bd7bb1f0485c.jpeg" />
+<a/>
