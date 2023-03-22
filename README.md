@@ -51,6 +51,36 @@ Discord UI Clone with the <a href="https://github.com/daltonmenezes/aura-theme/t
          <td><img src="https://placeholder.pics/svg/20x20/F694FF/000000/secondColor" /></td>
       </tr>
       <tr>
+         <td>Avatar Color</td>
+         <td>#6d6d6d</td>
+         <td><img src="https://placeholder.pics/svg/20x20/6d6d6d/000000/secondColor" /></td>
+      </tr>
+      <tr>
+         <td>Symbol Color</td>
+         <td>#74777a</td>
+         <td><img src="https://placeholder.pics/svg/20x20/74777a/000000/secondColor" /></td>
+      </tr>
+      <tr>
+         <td>Notification Color</td>
+         <td>#54c59f</td>
+         <td><img src="https://placeholder.pics/svg/20x20/54c59f/000000/secondColor" /></td>
+      </tr>
+      <tr>
+         <td>Selection Color</td>
+         <td>#51497E</td>
+         <td><img src="https://placeholder.pics/svg/20x20/51497E/000000/secondColor" /></td>
+      </tr>
+      <tr>
+         <td>Foreground Color</td>
+         <td>#edecee</td>
+         <td><img src="https://placeholder.pics/svg/20x20/edecee/000000/secondColor" /></td>
+      </tr>
+      <tr>
+         <td>Aura Color</td>
+         <td>#8464c6</td>
+         <td><img src="https://placeholder.pics/svg/20x20/8464c6/000000/secondColor" /></td>
+      </tr>
+      <tr>
          <td>Gray Color</td>
          <td>#9C9C9C</td>
          <td><img src="https://placeholder.pics/svg/20x20/9C9C9C/000000/grayColor" /></td>
@@ -66,14 +96,6 @@ Discord UI Clone with the <a href="https://github.com/daltonmenezes/aura-theme/t
          <td><img src="https://placeholder.pics/svg/20x20/fff/000000/whiteColor" /></td>
       </tr>
    </table>
-        --avatar: #6d6d6d;
-        --symbol: #74777a;
-        --message-mention: rgba(246,148,255, 0.2);
-        --notification: #54c59f;
-        --selection: #51497E;
-        --foreground: #edecee;
-    
-        --aura: #8464c6;
 
 ## Usage
 
