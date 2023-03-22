@@ -20,3 +20,6 @@ Discord UI Clone with the <a href="https://github.com/daltonmenezes/aura-theme/t
 ## Live
 
 <a href="https://aura-discord.netlify.app">Netlify</a>
+
+## Screenshot
+
